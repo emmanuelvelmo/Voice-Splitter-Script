@@ -1,4 +1,4 @@
-# Exakova Metacorn
+# Voice Splitter Script
 A software to isolate vocals from music tracks
 
 <p align="left">
