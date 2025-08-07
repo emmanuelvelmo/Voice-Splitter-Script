@@ -1,4 +1,4 @@
-# Voice Splitter Script
+# Voice splitter script
 A software to isolate vocals from music tracks
 
 <p align="left">
